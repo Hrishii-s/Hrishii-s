@@ -1,10 +1,4 @@
-<h1 align="left"><a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=700&size=24&color=32CD32&lines=Sup!%F0%9F%91%8B+You%E2%80%99ve+reached+my+slice+of+GitHub+%F0%9F%8D%95" alt="Typing SVG" />
-</a></h1>
-
-###
-
-
+<h1 align="left">Sup!👋 You’ve reached my slice of GitHub 🍕</h1>
 
 ###
 
@@ -15,8 +9,18 @@
 ###
 
 <br clear="both">
+<div align="center" style="line-height:1; margin:0;">
+  <a href="https://git.io/typing-svg" style="line-height:1;">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&color=2ecc71&lines=Hey!+I%E2%80%99m+Hrishi" 
+      alt="Typing SVG" 
+      style="display:inline-block; vertical-align:middle; margin:0; padding:0;"
+    />
+  </a>
+</div>
 
-<p align="center">Hey! I’m Hrishi, a computer science engineering grad and fullstack dev from Trivandrum, Kerala, India.<br>I love working with Django and React to build smooth, scalable web apps that help people get things done.</p>
+
+<p align="center">I’m a computer science and engineering grad and fullstack dev from Trivandrum, Kerala, India.<br>I love working with Django and React to build smooth, scalable web apps that help people get things done.</p>
 
 ###
 
