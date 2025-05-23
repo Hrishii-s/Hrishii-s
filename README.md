@@ -1,4 +1,7 @@
-<h1 align="left">Sup!👋 You’ve reached my slice of GitHub 🍕</h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=700&size=24&color=32CD32&lines=Sup!%F0%9F%91%8B+You%E2%80%99ve+reached+my+slice+of+GitHub+%F0%9F%8D%95" alt="Typing SVG" />
+</a>
+
 
 ###
 
