@@ -20,7 +20,7 @@
 </div>
 
 
-<p align="center">I’m a computer science and engineering grad and fullstack dev from Trivandrum, Kerala, India.<br>I love working with Django and React to build smooth, scalable web apps that help people get things done.</p>
+<p align="center">I’m a computer science engineering grad and fullstack dev from Trivandrum, Kerala, India.<br>I love working with Django and React to build smooth, scalable web apps that help people get things done.</p>
 
 ###
 
