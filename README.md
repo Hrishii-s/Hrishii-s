@@ -12,7 +12,7 @@
 <div align="center" style="line-height:1; margin:0;">
   <a href="https://git.io/typing-svg" style="line-height:1;">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&color=2ecc71&lines=Hey!+I%E2%80%99m+Hrishi" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&color=3CF702&lines=Hey!+I%E2%80%99m+Hrishi" 
       alt="Typing SVG" 
       style="display:inline-block; vertical-align:middle; margin:0; padding:0;"
     />
