@@ -121,7 +121,6 @@
 <img src="https://raw.githubusercontent.com/Hrishii-s/Hrishii-s/output/snake.svg" alt="Snake animation" />
 
 ###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishii-s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-stats.vercel.app/api?username=Hrishii-s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="150" alt="stats graph"  />
