@@ -117,16 +117,18 @@
 <h2 align="left"></h2>
 
 ###
+<img src="https://raw.githubusercontent.com/Hrishii-s/Hrishii-s/output/snake.svg" alt="Snake animation" />
 
-<img src="https://raw.githubusercontent.com/Hrishii-s/Hrishii-s/output/snake.svg" alt="Snake animation"/>
 
 
 ###
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Hrishii-s&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=midnight-purple&hide_border=false&order=2" height="150" alt="languages graph"  />
 <img src="https://github-readme-stats.vercel.app/api?username=Hrishii-s&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=midnight-purple&locale=en&hide_border=false&order=1&custom_title=GitHub-Stats" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Hrishii-s&locale=en&mode=daily&theme=midnight-purple&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hrishii-s&radius=16&theme=github-dark&area=true&order=5&hide_border=true&hide_title=false&custom_title=My%20Contribution%20Graph" height="300" alt="activity-graph graph" />
 </div>
 
 ###
+
+
